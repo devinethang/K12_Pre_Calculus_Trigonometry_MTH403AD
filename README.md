@@ -233,7 +233,7 @@ b = 3/2
 12(x + 3/2)^2 / 43 - 16(y + 3/2)^2 / 43 = 1
 ```
 
-7. A natural-draft cooling tower located in Crystal River, Florida, is hyperbolically-shaped, similar to the picture above.
+7. A natural-draft cooling tower located in Crystal River, Florida, is hyperbolically-shaped.
 
 The cooling tower is 349 feet in diameter at its base and 215 feet in diameter at the top. At its narrowest point, which is 381 feet above the ground, the cooling tower is 209 feet in diameter.
 
