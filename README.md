@@ -416,3 +416,111 @@ b = 5
 ```
 
 ![image_4](3%20-%20Conic%20Sections/3-07%20-%20Hyperbolas/image_4.png)
+
+5. The paths of two comets are represented by the hyperbola with the equation. Each branch represents the path of one comet. What are the points along each path at which the comets' paths are closest?
+
+```
+3x^2 − y^2 + 18x − 10y − 10 = 0
+```
+
+Show work:
+
+```
+3x^2 − y^2 + 18x − 10y − 10 = 0
+
++10
+
+3x^2 + 18x − y^2 − 10y = 10
+
+3(x^2 + 6x) − (y^2 + 10y) = 10
+
+a * 2 = 6
+
+a = 3
+
+b * 2 = 10
+
+b = 5
+
+3(x + 3)^2 - 1(y + 5)^2 = 10 + 3(a^2) - 1(b^2)
+
+3(x + 3)^2 - 1(y + 5)^2 = 10 + 3(3^2) - 1(5^2)
+
+3(x + 3)^2 - 1(y + 5)^2 = 10 + 3(9) - 1(25)
+
+3(x + 3)^2 - 1(y + 5)^2 = 10 + 27 - 25
+
+3(x + 3)^2 - 1(y + 5)^2 = 12
+
+/12
+
+(x + 3)^2 / 4 - (y + 5)^2 / 12 = 1
+
+The center is at (-a, -b) or (-3, -5).
+```
+
+```
+Solve for y when x = -3
+
+(x + 3)^2 / 4 - (y + 5)^2 / 12 = 1
+
+(-3 + 3)^2 / 4 - (y + 5)^2 / 12 = 1
+
+-(y + 5)^2 / 12 = 1
+
+* -12
+
+(y + 5)^2 = -12
+
+y + 5 = sqrt(-12)
+
+x = -3 is not valid and cannot be plotted
+```
+
+```
+Solve for x when y = -5
+
+(x + 3)^2 / 4 - (y + 5)^2 / 12 = 1
+
+(x + 3)^2 / 4 - (-5 + 5)^2 / 12 = 1
+
+(x + 3)^2 / 4 - (0)^2 / 12 = 1
+
+(x + 3)^2 / 4 - 0 = 1
+
+(x + 3)^2 / 4 = 1
+
+*4
+
+(x + 3)^2 = 4
+
+sqrt((x + 3)^2) = sqrt(4)
+
+x + 3 = sqrt(4)
+
+A)
+
+x + 3 = 2
+
+-3
+
+x = -1
+
+B)
+
+x + 3 = -2
+
+-3
+
+x = -5
+```
+
+```
+
+The two closest points are:
+
+(-1, -5) and (-5, -5)
+
+```
+
+![image_5](3%20-%20Conic%20Sections/3-07%20-%20Hyperbolas/image_5.png)
