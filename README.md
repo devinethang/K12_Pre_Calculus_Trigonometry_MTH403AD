@@ -31,7 +31,7 @@ Solution:
 
 9x^2 - 4y^2 + 18x + 40y + 9 - 100 - 36 = 0
 
-9x^2 - 4y^2 + 18x + 40y + -127 = 0
+9x^2 - 4y^2 + 18x + 40y - 127 = 0
 ```
 
 2. What is the equation in its *standard form*?
