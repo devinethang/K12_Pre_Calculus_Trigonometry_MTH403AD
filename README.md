@@ -4,7 +4,7 @@
 
 ### 3.07: Hyperbolas
 
-#### Learn: General Form of a Hyperbola
+#### Learn: General and Standard Forms of a Hyperbola
 
 1. What is the *general form* of the equation?
 
@@ -231,6 +231,45 @@ b = 3/2
 3(x + 3/2)^2 / (43/4) - 4(y + 3/2)^2 / (43/4) = 1
 
 12(x + 3/2)^2 / 43 - 16(y + 3/2)^2 / 43 = 1
+```
+
+7. A natural-draft cooling tower located in Crystal River, Florida, is hyperbolically-shaped, similar to the picture above.
+
+The cooling tower is 349 feet in diameter at its base and 215 feet in diameter at the top. At its narrowest point, which is 381 feet above the ground, the cooling tower is 209 feet in diameter.
+
+Based on this information, how high above the ground is the top of the cooling tower?
+
+Solution:
+
+```
+x^2 / a^2 - y^2 / b^2 = 1
+
+107.5^2 / 104.5^2 - y^2 / 286^2 = 1
+
++ y^2 / 286^2
+
+107.5^2 / 104.5^2 = 1 + y^2 / 286^2
+
+-1
+
+107.5^2 / 104.5^2 - 1 = y^2 / 286^2
+
+*286^2
+
+107.5^2 / 104.5^2 * 286^2 - 286^2 = y^2
+
+sqrt(107.5^2 / 104.5^2 * 286^2 - 286^2) = y
+
+y = sqrt(107.5^2 / 104.5^2 * 286^2 - 286^2)
+
+let y = Math.sqrt(Math.pow(107.5, 2) / Math.pow(104.5, 2) * Math.pow(286, 2) - Math.pow(286, 2));
+
+console.log('y =', y, 'feet');
+// y = 69.02053169176439 feet
+
+The overall height of the tower is the sum of these figures: 381 + 69 = 450.
+
+The cooling tower is 450 feet tall.
 ```
 
 #### Practice: General Form of a Hyperbola
